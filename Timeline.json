@@ -1,0 +1,380 @@
+{
+  "timeline": [
+    {
+      "titulo": "Primeiras Migrações",
+      "data_inicial": "17000 a.C.",
+      "data_final": "10000 a.C.",
+      "origem": "Primeiros humanos",
+      "descricao": "Durante o Paleolítico Superior, os primeiros grupos humanos começam a migrar para a região que hoje é o Brasil. Acredita-se que esses primeiros habitantes tenham vindo da Ásia, cruzando a Beringia. Adaptando-se ao clima tropical e à biodiversidade única, esses grupos caçavam grandes mamíferos e coletavam alimentos, deixando vestígios como as pinturas rupestres.",
+      "imagens_descritivo": "Pinturas rupestres, ferramentas primitivas de pedra, reconstruções de habitações antigas."
+    },
+    {
+      "titulo": "Culturas de Caçadores-coletores",
+      "data_inicial": "10000 a.C.",
+      "data_final": "6000 a.C.",
+      "origem": "Povos indígenas",
+      "descricao": "Ao longo de milhares de anos, os povos indígenas se dispersaram por todo o território brasileiro, formando grupos com culturas distintas. A caça, pesca e coleta eram as principais atividades. Esses grupos desenvolveram habilidades específicas, como a confecção de armas e utensílios avançados, para se adaptar a diferentes ecossistemas, desde a floresta amazônica até o cerrado.",
+      "imagens_descritivo": "Artefatos de pedra, como pontas de flecha e machados, representações de rituais de caça."
+    },
+    {
+      "titulo": "Início da Agricultura e Sedentarização",
+      "data_inicial": "6000 a.C.",
+      "data_final": "2500 a.C.",
+      "origem": "Povos indígenas",
+      "descricao": "A descoberta da agricultura foi um marco na história da humanidade. No território brasileiro, os grupos indígenas começaram a domesticar plantas como mandioca, milho e abóbora. Isso permitiu que eles se estabelecessem em um local, dando origem às primeiras aldeias. Com a sedentarização, houve um aumento na população e surgiram as primeiras tradições cerimoniais.",
+      "imagens_descritivo": "Representações de aldeias primitivas, ferramentas agrícolas, cerâmicas utilizadas para armazenamento."
+    },
+    {
+      "titulo": "Culturas Ceramistas",
+      "data_inicial": "2500 a.C.",
+      "data_final": "1000 a.C.",
+      "origem": "Povos indígenas",
+      "descricao": "A habilidade de moldar e queimar argila revolucionou a vida cotidiana dos indígenas. Com a cerâmica, foi possível armazenar alimentos, cozinhar e realizar rituais religiosos. A cerâmica também se tornou uma forma de expressão artística, com diferentes culturas desenvolvendo estilos únicos. Essa inovação reflete uma sociedade mais complexa com estruturas sociais e rituais mais elaborados.",
+      "imagens_descritivo": "Cerâmicas decoradas, urnas funerárias, representações de rituais ceramistas."
+    },
+    {
+      "titulo": "Formação de Grandes Culturas Precolombianas",
+      "data_inicial": "1000 a.C.",
+      "data_final": "1500 d.C.",
+      "origem": "Povos indígenas",
+      "descricao": "No último milênio antes da chegada dos europeus, grandes culturas surgiram no território brasileiro. Estas sociedades tinham organização social, política e religiosa mais complexa. Construíram grandes aldeias, desenvolveram técnicas agrícolas avançadas e estabeleceram redes de comércio. Os Marajoara na região da Ilha de Marajó e os povos do Alto Xingu são exemplos dessas culturas avançadas.",
+      "imagens_descritivo": "Construções megalíticas, artefatos cerimoniais, representações de líderes e guerreiros indígenas."
+    },
+    {
+      "titulo": "Expansão de Culturas e Tribos",
+      "data_inicial": "500 d.C.",
+      "data_final": "1000 d.C.",
+      "origem": "Povos indígenas",
+      "descricao": "Neste período, várias culturas e tribos indígenas expandiram seus territórios, estabelecendo-se em novas áreas e entrando em contato com outros grupos. Isso resultou em uma troca cultural, influenciando a linguagem, arte, religião e práticas agrícolas entre as tribos.",
+      "imagens_descritivo": "Representações de migrações, artefatos culturais de diferentes tribos, gravuras de encontros tribais."
+    },
+    {
+      "titulo": "Complexificação de Sociedades e Redes de Troca",
+      "data_inicial": "1000 d.C.",
+      "data_final": "1200 d.C.",
+      "origem": "Povos indígenas",
+      "descricao": "Com o aumento populacional e a formação de aldeias maiores, as sociedades indígenas se tornaram mais complexas. Surgiram líderes mais poderosos, rituais elaborados e redes de troca que conectavam diferentes regiões, permitindo a circulação de bens, ideias e tecnologias.",
+      "imagens_descritivo": "Objetos de troca, gravuras de cerimônias, mapas de rotas de comércio indígena."
+    },
+    {
+      "titulo": "Culturas de Terra Preta",
+      "data_inicial": "1000 d.C.",
+      "data_final": "1200 d.C.",
+      "origem": "Povos indígenas",
+      "descricao": "Os indígenas da região amazônica desenvolveram técnicas agrícolas avançadas, resultando na formação de solos ricos em nutrientes conhecidos como Terra Preta. Estes solos permitiram o cultivo intensivo e sustentaram grandes populações, promovendo o florescimento de culturas sofisticadas na região.",
+      "imagens_descritivo": "Fotos de solos de Terra Preta, artefatos da cultura Marajoara, reconstruções de aldeias amazônicas."
+    },
+    {
+      "titulo": "Expansão Tupi-Guarani",
+      "data_inicial": "1200 d.C.",
+      "data_final": "1400 d.C.",
+      "origem": "Povos Tupi-Guarani",
+      "descricao": "Os Tupi-Guarani, originários da região amazônica, iniciaram uma grande migração para o sul e sudeste do Brasil. Estabeleceram-se ao longo da costa, influenciando a cultura dos grupos locais e expandindo sua língua e tradições. Eles foram fundamentais na formação da cultura brasileira pré-colonial.",
+      "imagens_descritivo": "Gravuras de migrações Tupi-Guarani, cerâmicas e artefatos, reconstruções de aldeias costeiras."
+    },
+    {
+      "titulo": "Formação de Grandes Aldeias e Confederações",
+      "data_inicial": "1400 d.C.",
+      "data_final": "1500 d.C.",
+      "origem": "Povos indígenas",
+      "descricao": "Com o crescimento populacional e o desenvolvimento de técnicas agrícolas mais avançadas, os indígenas começaram a formar aldeias maiores e mais permanentes. Em algumas regiões, várias aldeias se uniram formando confederações para defesa mútua e comércio.",
+      "imagens_descritivo": "Reconstruções de grandes aldeias, gravuras de rituais comunitários, artefatos de defesa e comércio."
+    },
+    {
+      "titulo": "Primeiros Contatos com Europeus",
+      "data_inicial": "Fim do século XV",
+      "data_final": "1500 d.C.",
+      "origem": "Europa",
+      "descricao": "Antes da chegada oficial de Pedro Álvares Cabral em 1500, é possível que outros europeus, como os espanhóis e os portugueses, tenham chegado ao Brasil em expedições não oficiais. Esses primeiros contatos resultaram em trocas culturais, mas também em conflitos e doenças.",
+      "imagens_descritivo": "Gravuras de caravelas europeias, mapas antigos, representações de encontros entre indígenas e europeus."
+    },
+    {
+      "titulo": "Descobrimento do Brasil por Pedro Álvares Cabral",
+      "data_inicial": "1500",
+      "data_final": "1500",
+      "origem": "Portugal",
+      "descricao": "Em 22 de abril de 1500, Pedro Álvares Cabral, navegando a serviço da coroa portuguesa, chegou ao que hoje é conhecido como Brasil. A expedição tinha como objetivo estabelecer uma rota para as Índias, mas acabou descobrindo novas terras. Este evento marca o início da colonização portuguesa no Brasil.",
+      "imagens_descritivo": "Caravelas portuguesas, retrato de Pedro Álvares Cabral, gravuras do primeiro contato com os indígenas."
+    },
+    {
+      "titulo": "Expedição de Martim Afonso de Sousa",
+      "data_inicial": "1530",
+      "data_final": "1530",
+      "origem": "Portugal",
+      "descricao": "Martim Afonso de Sousa foi enviado ao Brasil para estabelecer as primeiras vilas e iniciar o processo de colonização efetiva. Ele fundou a vila de São Vicente, a primeira vila permanente do Brasil, e iniciou o cultivo de cana-de-açúcar, introduzindo também os primeiros escravos africanos.",
+      "imagens_descritivo": "Retrato de Martim Afonso de Sousa, vila de São Vicente, plantações de cana-de-açúcar."
+    },
+    {
+      "titulo": "Colonos Portugueses e Canários",
+      "data_inicial": "1532",
+      "data_final": "1532",
+      "origem": "Portugal e Ilhas Canárias",
+      "descricao": "Neste período, além dos portugueses, colonos das Ilhas Canárias foram incentivados a se estabelecer no Brasil. Eles desempenharam um papel importante na formação da sociedade colonial, trazendo consigo tradições e habilidades agrícolas.",
+      "imagens_descritivo": "Colonos trabalhando nas fazendas, retratos da vida cotidiana, casas coloniais."
+    },
+    {
+      "titulo": "Capitanias Hereditárias e Novos Colonos",
+      "data_inicial": "1534",
+      "data_final": "1536",
+      "origem": "Portugal",
+      "descricao": "O sistema de Capitanias Hereditárias foi estabelecido pela coroa portuguesa como uma forma de colonizar e administrar o território brasileiro. Grandes faixas de terra foram doadas a nobres e pessoas influentes, que se tornaram responsáveis por seu desenvolvimento e defesa. Esse sistema trouxe novos colonos, mas teve sucesso variado em diferentes regiões.",
+      "imagens_descritivo": "Mapas das capitanias, retratos dos donatários, vilas e fortificações coloniais."
+    },
+    {
+      "titulo": "Fundação de Salvador e Chegada dos Jesuítas",
+      "data_inicial": "1549",
+      "data_final": "1549",
+      "origem": "Portugal",
+      "descricao": "A cidade de Salvador foi fundada como a primeira capital do Brasil, tornando-se um importante centro administrativo e comercial. No mesmo ano, os jesuítas chegaram com a missão de evangelizar os indígenas. Eles desempenharam um papel crucial na educação e na relação entre colonos e indígenas.",
+      "imagens_descritivo": "Vista da cidade de Salvador, retratos de jesuítas, missões e escolas jesuíticas."
+    },
+    {
+      "titulo": "Fundação do Rio de Janeiro e Chegada de Novos Colonos",
+      "data_inicial": "1565",
+      "data_final": "1565",
+      "origem": "Portugal",
+      "descricao": "Estácio de Sá fundou a cidade de São Sebastião do Rio de Janeiro, que se tornou um ponto estratégico para a defesa da costa brasileira contra invasões estrangeiras. A cidade atraiu novos colonos e rapidamente se tornou um importante centro de comércio e defesa.",
+      "imagens_descritivo": "Vista do Rio de Janeiro, retratos de Estácio de Sá, fortificações e vida cotidiana na cidade."
+    },
+    {
+      "titulo": "Migração Aumentada devido à União Ibérica",
+      "data_inicial": "1580",
+      "data_final": "1583",
+      "origem": "Portugal e Espanha",
+      "descricao": "Durante a União Ibérica, quando as coroas de Portugal e Espanha foram unificadas, houve um aumento na migração de espanhóis para o Brasil. Isso trouxe novas influências culturais e também levou a conflitos de território, já que os limites entre as possessões portuguesas e espanholas na América do Sul não eram claramente definidos.",
+      "imagens_descritivo": "Mapas da União Ibérica, retratos de colonos espanhóis e portugueses, gravuras de conflitos de fronteira."
+    },
+    {
+      "titulo": "Entradas e Bandeiras",
+      "data_inicial": "Fim do século XVI",
+      "data_final": "1700",
+      "origem": "Brasil Colonial",
+      "descricao": "As expedições chamadas 'Entradas' e 'Bandeiras' foram organizadas principalmente por colonos da região de São Paulo com o objetivo de explorar o interior do Brasil. Eles buscavam riquezas minerais, capturar indígenas para a escravidão e expandir territórios. Essas expedições desempenharam um papel fundamental na expansão territorial do Brasil e na descoberta de minas de ouro e diamante.",
+      "imagens_descritivo": "Gravuras de bandeirantes, mapas de rotas de expedição, minas e acampamentos."
+    },
+    {
+      "titulo": "Fundação de Belém",
+      "data_inicial": "1605",
+      "data_final": "1605",
+      "origem": "Portugal",
+      "descricao": "A cidade de Belém do Pará foi fundada por Francisco Caldeira Castelo Branco como uma estratégia para garantir a soberania portuguesa na foz do Rio Amazonas. Esta fundação foi fundamental para estabelecer uma presença portuguesa na região amazônica e consolidar o território brasileiro.",
+      "imagens_descritivo": "Vista antiga de Belém, retrato de Francisco Caldeira Castelo Branco, fortificações e edifícios coloniais."
+    },
+    {
+      "titulo": "Invasão Holandesa na Bahia",
+      "data_inicial": "1624",
+      "data_final": "1625",
+      "origem": "Holanda",
+      "descricao": "As forças holandesas, na tentativa de expandir sua influência e controlar o comércio de açúcar, invadiram e ocuparam Salvador, a capital do Brasil na época. No entanto, a ocupação durou apenas um ano, pois as forças portuguesas e espanholas reconquistaram a cidade em 1625.",
+      "imagens_descritivo": "Gravuras da invasão holandesa, batalhas navais, Salvador sob ocupação."
+    },
+    {
+      "titulo": "Ocupação Holandesa em Pernambuco",
+      "data_inicial": "1630",
+      "data_final": "1654",
+      "origem": "Holanda",
+      "descricao": "Os holandeses, após sua tentativa na Bahia, conseguiram ocupar a região de Pernambuco, estabelecendo um domínio que durou 24 anos. Durante esse período, Recife tornou-se a capital do Brasil Holandês. A ocupação holandesa deixou marcas culturais e arquitetônicas, mas foi eventualmente expulsa em 1654, consolidando novamente o domínio português.",
+      "imagens_descritivo": "Gravuras da ocupação holandesa, fortificações em Recife, retratos da sociedade durante o domínio holandês."
+    },
+    {
+      "titulo": "Fundação de Manaus",
+      "data_inicial": "1663",
+      "data_final": "1663",
+      "origem": "Portugal",
+      "descricao": "Manaus foi fundada com o nome de 'Fortaleza de São José da Barra do Rio Negro' para garantir a soberania portuguesa na região contra possíveis invasões estrangeiras. Posteriormente, tornou-se um importante centro para a extração de borracha e, atualmente, é a principal cidade da região amazônica.",
+      "imagens_descritivo": "Vista antiga de Manaus, fortificações, porto e atividades relacionadas à extração de borracha."
+    },
+    {
+      "titulo": "Descoberta de Ouro em Minas Gerais",
+      "data_inicial": "1693",
+      "data_final": "1697",
+      "origem": "Brasil Colonial",
+      "descricao": "A descoberta de ouro em Minas Gerais marcou o início do ciclo do ouro no Brasil. Esta descoberta atraiu milhares de colonos em busca de riqueza, transformando a região em um dos mais prósperos e populosos territórios do Brasil colonial. O ciclo do ouro teve um impacto profundo na economia, sociedade e cultura brasileiras.",
+      "imagens_descritivo": "Minas de ouro, retratos de garimpeiros, cidades históricas de Minas Gerais, arte barroca."
+    },
+    {
+      "titulo": "Entradas e Bandeiras",
+      "data_inicial": "Fim do século XVII",
+      "data_final": "1700",
+      "origem": "Brasil Colonial",
+      "descricao": "A busca por riquezas e a expansão territorial continuaram com as expedições chamadas 'Entradas' e 'Bandeiras'. Estas expedições, originadas principalmente em São Paulo, buscavam riquezas minerais, capturar indígenas para a escravidão e expandir territórios. Foram fundamentais na descoberta de novas regiões de mineração e na expansão das fronteiras brasileiras.",
+      "imagens_descritivo": "Gravuras de bandeirantes, mapas de rotas de expedição, acampamentos e descobertas minerais."
+    },
+    {
+      "titulo": "Auge do Ciclo do Ouro",
+      "data_inicial": "Início do século XVIII",
+      "data_final": "1750",
+      "origem": "Brasil Colonial",
+      "descricao": "O século XVIII marcou o auge da exploração de ouro em Minas Gerais e em outras regiões do Brasil. As riquezas extraídas financiaram o reino português e transformaram a região em um polo econômico e cultural, dando origem a cidades históricas e uma rica tradição artística, especialmente no estilo barroco.",
+      "imagens_descritivo": "Minas de ouro, cidades históricas, arte barroca, vida cotidiana nas regiões mineradoras."
+    },
+    {
+      "titulo": "Criação da Capitania de Minas Gerais",
+      "data_inicial": "1720",
+      "data_final": "1720",
+      "origem": "Portugal",
+      "descricao": "Devido à importância e riqueza da região das minas, a Coroa Portuguesa decidiu criar a Capitania de Minas Gerais, separando-a da Capitania de São Paulo e Minas de Ouro. Isso permitiu uma melhor administração e controle sobre a extração e tributação do ouro.",
+      "imagens_descritivo": "Mapas antigos, documentos oficiais, retratos de administradores coloniais."
+    },
+    {
+      "titulo": "Tratado de Madri",
+      "data_inicial": "1750",
+      "data_final": "1750",
+      "origem": "Espanha e Portugal",
+      "descricao": "O Tratado de Madri foi assinado entre Espanha e Portugal para definir as fronteiras de seus impérios coloniais na América do Sul, substituindo o antigo Tratado de Tordesilhas. Este tratado foi baseado no princípio do 'uti possidetis', ou seja, a posse de terras de acordo com a ocupação efetiva.",
+      "imagens_descritivo": "Mapas do Tratado de Madri, retratos dos signatários, documentos oficiais."
+    },
+    {
+      "titulo": "Reformas Pombalinas",
+      "data_inicial": "1755",
+      "data_final": "1755",
+      "origem": "Portugal",
+      "descricao": "Sob o comando do Marquês de Pombal, ministro do rei D. José I de Portugal, uma série de reformas foram implementadas para modernizar o império português. Estas reformas impactaram a economia, educação e administração do Brasil, incluindo a expulsão dos jesuítas e a reorganização da exploração do ouro.",
+      "imagens_descritivo": "Retrato do Marquês de Pombal, gravuras das reformas, documentos oficiais."
+    },
+    {
+      "titulo": "Inconfidência Mineira",
+      "data_inicial": "1789",
+      "data_final": "1789",
+      "origem": "Minas Gerais, Brasil Colonial",
+      "descricao": "A Inconfidência Mineira foi uma conspiração de elites coloniais contra a alta tributação e controle da Coroa Portuguesa. Inspirados pelos ideais iluministas e pela Independência Americana, os inconfidentes buscavam a independência de Minas Gerais. A conspiração foi descoberta e seus líderes foram presos, com Tiradentes sendo executado.",
+      "imagens_descritivo": "Gravuras da Inconfidência, retratos de Tiradentes e outros inconfidentes, documentos e cartas."
+    },
+    {
+      "titulo": "Conjuração Baiana (Revolta dos Alfaiates)",
+      "data_inicial": "1798",
+      "data_final": "1798",
+      "origem": "Bahia, Brasil Colonial",
+      "descricao": "A Conjuração Baiana, também conhecida como Revolta dos Alfaiates, foi uma revolução que buscava estabelecer uma república independente na Bahia. Influenciada pelos ideais da Revolução Francesa, a revolta envolveu uma ampla gama de classes sociais, mas foi rapidamente reprimida pela Coroa Portuguesa.",
+      "imagens_descritivo": "Gravuras da revolta, retratos dos líderes, documentos e proclamações."
+    },
+    {
+      "titulo": "Expansão Territorial",
+      "data_inicial": "Fim do século XVIII",
+      "data_final": "1800",
+      "origem": "Brasil Colonial",
+      "descricao": "O final do século XVIII viu uma expansão territorial significativa do Brasil, impulsionada principalmente pelas expedições de Entradas e Bandeiras, que buscavam novas terras e riquezas. Essa expansão solidificou a presença portuguesa em vastas regiões do território brasileiro, definindo as fronteiras que conhecemos hoje.",
+      "imagens_descritivo": "Mapas da expansão territorial, gravuras de bandeirantes, novos assentamentos e vilas."
+    },
+    {
+      "titulo": "Independência do Brasil",
+      "data_inicial": "1822",
+      "data_final": "1822",
+      "origem": "Brasil",
+      "descricao": "Em 7 de setembro de 1822, Dom Pedro I proclamou a independência do Brasil às margens do rio Ipiranga, em São Paulo. Este evento marcou o fim do domínio colonial português e o início do Império do Brasil, com Dom Pedro I tornando-se o primeiro imperador.",
+      "imagens_descritivo": "Pintura 'Independência ou Morte', retrato de Dom Pedro I, documentos da independência."
+    },
+    {
+      "titulo": "Primeira Constituição Brasileira",
+      "data_inicial": "1824",
+      "data_final": "1824",
+      "origem": "Brasil",
+      "descricao": "A primeira constituição do Brasil foi outorgada por Dom Pedro I em 1824. Estabeleceu o Brasil como um império constitucional monárquico. A constituição definiu os poderes do imperador e os direitos dos cidadãos, embora tenha sido criticada por sua natureza centralizadora e autoritária.",
+      "imagens_descritivo": "Documento da Constituição de 1824, retrato de Dom Pedro I, assembleias e debates."
+    },
+    {
+      "titulo": "Revolução Farroupilha",
+      "data_inicial": "1835",
+      "data_final": "1845",
+      "origem": "Rio Grande do Sul, Brasil",
+      "descricao": "A Revolução Farroupilha, também conhecida como Guerra dos Farrapos, foi uma revolta que ocorreu no Rio Grande do Sul contra o governo imperial. Liderada por estancieiros e charqueadores, a revolta foi motivada por questões econômicas e políticas, e resultou na declaração da República Rio-Grandense. A revolução terminou com a assinatura da Paz de Ponche Verde em 1845.",
+      "imagens_descritivo": "Gravuras da revolução, retratos dos líderes farroupilhas, bandeira da República Rio-Grandense."
+    },
+    {
+      "titulo": "Abolição da Escravatura",
+      "data_inicial": "1888",
+      "data_final": "1888",
+      "origem": "Brasil",
+      "descricao": "Em 13 de maio de 1888, a Princesa Isabel assinou a Lei Áurea, abolindo oficialmente a escravidão no Brasil. O Brasil foi o último país das Américas a abolir a escravidão. Embora a lei tenha libertado os escravizados, não proporcionou medidas para sua integração plena à sociedade, resultando em desafios sociais e econômicos que persistem até hoje.",
+      "imagens_descritivo": "Documento da Lei Áurea, retrato da Princesa Isabel, cenas da libertação dos escravizados."
+    },
+    {
+      "titulo": "Proclamação da República",
+      "data_inicial": "1889",
+      "data_final": "1889",
+      "origem": "Brasil",
+      "descricao": "Em 15 de novembro de 1889, um golpe militar liderado pelo Marechal Deodoro da Fonseca depôs o imperador Dom Pedro II e proclamou a República do Brasil. Este evento marcou o fim do Império do Brasil e o início da República Federativa do Brasil.",
+      "imagens_descritivo": "Pintura da Proclamação da República, retrato do Marechal Deodoro da Fonseca, cenas do golpe."
+    },
+    {
+      "titulo": "Expansão da Cultura do Café",
+      "data_inicial": "Fim do século XIX",
+      "data_final": "1900",
+      "origem": "São Paulo e Rio de Janeiro, Brasil",
+      "descricao": "No final do século XIX, a cultura do café tornou-se o principal motor econômico do Brasil. A produção de café concentrou-se em São Paulo e no Rio de Janeiro, atraindo uma grande quantidade de imigrantes europeus para trabalhar nas fazendas. O café transformou a economia, a sociedade e a política brasileiras, consolidando a influência das elites cafeeiras no cenário nacional.",
+      "imagens_descritivo": "Fazendas de café, retratos de barões do café, imigrantes trabalhando nas lavouras, sacas de café para exportação."
+    },
+    {
+      "titulo": "Política do Café com Leite",
+      "data_inicial": "Início do século XX",
+      "data_final": "1930",
+      "origem": "Brasil",
+      "descricao": "A política do Café com Leite refere-se à alternância de poder entre os presidentes oriundos de São Paulo (produtores de café) e Minas Gerais (produtores de leite). Esta política representou a dominação política e econômica desses dois estados na Primeira República.",
+      "imagens_descritivo": "Fazendas de café, retratos de políticos da época, assembleias e debates políticos."
+    },
+    {
+      "titulo": "Revolução de 1930 e Era Vargas",
+      "data_inicial": "1930",
+      "data_final": "1945",
+      "origem": "Brasil",
+      "descricao": "A Revolução de 1930 marcou o fim da Política do Café com Leite e trouxe Getúlio Vargas ao poder. Vargas governou o Brasil em diferentes períodos até 1954, implementando reformas trabalhistas, consolidando o poder central e estabelecendo o Estado Novo (1937-1945), um regime autoritário.",
+      "imagens_descritivo": "Retratos de Getúlio Vargas, manifestações populares, leis trabalhistas, cenas do Estado Novo."
+    },
+    {
+      "titulo": "Regime Militar",
+      "data_inicial": "1964",
+      "data_final": "1985",
+      "origem": "Brasil",
+      "descricao": "Em 1964, um golpe militar depôs o presidente João Goulart, iniciando uma ditadura que duraria até 1985. Durante este período, os direitos civis foram restringidos, a censura foi imposta e muitos opositores foram perseguidos, torturados ou mortos.",
+      "imagens_descritivo": "Manifestações contra e a favor do regime, retratos dos presidentes militares, cenas de censura e repressão."
+    },
+    {
+      "titulo": "Redemocratização",
+      "data_inicial": "1985",
+      "data_final": "1985",
+      "origem": "Brasil",
+      "descricao": "Em 1985, o Brasil iniciou o processo de redemocratização com a eleição de Tancredo Neves (que faleceu antes de assumir) e a posse de seu vice, José Sarney. Esse período marcou o retorno ao governo civil e o fim da ditadura militar.",
+      "imagens_descritivo": "Manifestações populares pedindo eleições diretas, retrato de Tancredo Neves e José Sarney, cerimônias de posse."
+    },
+    {
+      "titulo": "Nova Constituição Brasileira",
+      "data_inicial": "1988",
+      "data_final": "1988",
+      "origem": "Brasil",
+      "descricao": "Em 1988, foi promulgada a nova Constituição Brasileira, que estabeleceu os direitos e deveres dos cidadãos e redefiniu a estrutura do Estado. Esta constituição é frequentemente referida como 'Constituição Cidadã' devido às suas amplas garantias de direitos humanos e civis.",
+      "imagens_descritivo": "Documento da Constituição de 1988, assembleias e debates constituintes, retrato de Ulysses Guimarães."
+    },
+    {
+      "titulo": "Plano Real e Estabilização Econômica",
+      "data_inicial": "1990s",
+      "data_final": "1990s",
+      "origem": "Brasil",
+      "descricao": "Na década de 1990, o Brasil enfrentou uma grave crise econômica com hiperinflação. Em resposta, o governo implementou o Plano Real em 1994, uma série de medidas que estabilizaram a economia e introduziram a nova moeda, o real.",
+      "imagens_descritivo": "Cédulas do Real, gráficos econômicos, retratos de Itamar Franco e Fernando Henrique Cardoso, cenas de lojas com preços estáveis."
+    },
+    {
+      "titulo": "Crescimento Econômico e Políticas Sociais",
+      "data_inicial": "2000s",
+      "data_final": "2000s",
+      "origem": "Brasil",
+      "descricao": "Na década de 2000, sob os governos de Luiz Inácio Lula da Silva e Dilma Rousseff, o Brasil experimentou um período de crescimento econômico robusto e implementação de políticas sociais que reduziram a pobreza e aumentaram o acesso à educação e saúde.",
+      "imagens_descritivo": "Retratos de Lula e Dilma, cenas de programas sociais, gráficos de crescimento econômico."
+    },
+    {
+      "titulo": "Crise Política e Econômica",
+      "data_inicial": "2010s",
+      "data_final": "2010s",
+      "origem": "Brasil",
+      "descricao": "A década de 2010 foi marcada por uma crise política e econômica no Brasil. O impeachment da presidente Dilma Rousseff em 2016, a operação Lava Jato e a recessão econômica dominaram o cenário nacional, resultando em protestos e instabilidade.",
+      "imagens_descritivo": "Manifestações nas ruas, retratos de políticos envolvidos, cenas da operação Lava Jato, gráficos econômicos."
+    },
+    {
+      "titulo": "Pandemia de COVID-19",
+      "data_inicial": "2020s",
+      "data_final": "2023",
+      "origem": "Mundial",
+      "descricao": "A pandemia de COVID-19, causada pelo novo coronavírus, afetou profundamente o Brasil e o mundo. Com milhares de mortes e impactos econômicos significativos, o país enfrentou desafios na saúde pública, na economia e na sociedade. A pandemia trouxe à tona discussões sobre políticas de saúde, vacinação e medidas de isolamento.",
+      "imagens_descritivo": "Hospitais lotados, gráficos de contágio, vacinas, manifestações e debates políticos sobre a gestão da pandemia."
+    }
+  ]
+}
